@@ -26,4 +26,4 @@ ID(Formando), ID(Turma) e ID(Curso)
  
 b. Chaves estrangeiras 
 
-ID(Formando), ID(Turma) e ID(Curso)
+ID(Formando) na tabela turma, ID(Turma) na tabela do curso e ID(Curso) na tabela da turma 
