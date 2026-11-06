@@ -1,0 +1,29 @@
+1. Identifique as entidades presentes no sistema. (0,5 valores) 
+
+Formando, Turma e Curso
+
+2. Identifique os atributos de cada entidade. (0,5 valor)
+
+Formando:
+Nome, Nº de identificação e Data de Nascimento
+
+Turma:
+Designação da turma e Data de criação
+
+Curso:
+Nome, Data de Início e Carga Horária
+
+ 
+3. Identifique os relacionamentos e respetivas cardinalidades. (1,5 valores) 
+
+
+
+
+4. Identifique: 
+a. Chaves primárias (0,8 valor)
+
+ID(Formando), ID(Turma) e ID(Curso)
+ 
+b. Chaves estrangeiras 
+
+ID(Formando), ID(Turma) e ID(Curso)
